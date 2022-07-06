@@ -1,0 +1,4 @@
+digite seu nome
+digite sua senha
+digite seu sobrenome
+digite sua idade
